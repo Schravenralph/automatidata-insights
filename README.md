@@ -1,5 +1,5 @@
 # automatidata-insights
-Automatidata - Fictive Machine Learning Case Study
+Automatidata - Machine Learning Case Study
 
 Please head over to my iPython Notebook on this case study. I will set the stage for you, explain the steps we'll take in the process, and show you the results.
 
